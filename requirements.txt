@@ -1,0 +1,9 @@
+Django
+djongo
+django-cryptography
+pymongo
+dnspython
+bcrypt
+djangorestframework
+mongoengine
+jwt
